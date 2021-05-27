@@ -17,7 +17,7 @@ import utils
 from meters import AverageMeter
 from discriminator import Discriminator
 from generator import LSTMModel
-from train_generator import train_g
+#from train_generator import train_g
 from train_discriminator import train_d
 from PGLoss import PGLoss
 
